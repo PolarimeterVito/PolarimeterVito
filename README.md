@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am currently working as an academic researcher in the Optical Metrology Group led by Oliver H. Heckl at the Faculty of Physics of the University of Vienna. Our research focus is on precision measurements using optical frequency combs as a tool to "interrogate" molecules.
+I am currently working as a Senior Scientist in the Optical Metrology Group led by Oliver H. Heckl at the Faculty of Physics of the University of Vienna. Our research focus is on precision measurements using optical frequency combs as a tool to "interrogate" molecules.
 If you are interested in our research, check out our [homepage](https://optical-metrology.univie.ac.at/).
 For my personal publication record I would also love you to check out my [ORCID](https://orcid.org/0000-0002-1420-7948) and [Google Scholar](https://scholar.google.com/citations?hl=de&user=6pKGfmwAAAAJ).
 
